@@ -1,2 +1,7 @@
-# Validador-de-CPF-em-C
-Programa simples em C que valida CPFs. Recebe o CPF com 11 números, verifica se não são todos iguais e calcula os dígitos verificadores para confirmar a validade. Mostra na tela se o CPF é válido ou inválido. Ideal para praticar lógica e manipulação de números.
+# Validador de CPF em C
+
+Este é um programa simples em C que valida CPFs brasileiros usando o cálculo dos dígitos verificadores.
+
+Funciona para CPFs com 11 dígitos e verifica se o número é válido ou inválido.
+
+Feito para praticar lógica de programação e manipulação de strings.
